@@ -1,39 +1,41 @@
-[{
-		"title": "RACE",
-		"links": [{
-				"text": "Home",
-				"url": "https://race.foundation/"
-			},
-			{
-				"text": "Ecosystem",
-				"url": "https://raceecosystem.com/"
-			},
-		]
-	},
+[
+  {
+    "title": "RACE",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://race.foundation/"
+      },
+      {
+        "text": "Ecosystem",
+        "url": "https://raceecosystem.com/"
+      }
+    ]
+  },
 
-	{
-		"title": "Community",
-		"links": [{
-				"text": "Linkedin",
-				"url": "https://www.linkedin.com/company/raceecosystem"
-			},
-			{
-				"text": "Twitter",
-				"url": "https://twitter.com/RACEecosystem"
-			},
-			{
-				"text": "Facebook",
-				"url": "https://www.facebook.com/RACEecosystem/"
-			},
-			{
-				"text": "Telegram",
-				"url": "https://t.me/RACEecosystem"
-			},
-			{
-				"text": "Instagram",
-				"url": "https://www.instagram.com/raceecosystem/"
-			}
-		]
-	}
- 
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Linkedin",
+        "url": "https://www.linkedin.com/company/raceecosystem"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/RACEecosystem"
+      },
+      {
+        "text": "Facebook",
+        "url": "https://www.facebook.com/RACEecosystem/"
+      },
+      {
+        "text": "Telegram",
+        "url": "https://t.me/RACEecosystem"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/raceecosystem/"
+      }
+    ]
+  }
 ]
