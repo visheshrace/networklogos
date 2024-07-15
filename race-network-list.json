@@ -1,15 +1,16 @@
-[{
-		"title": "RACE",
-		"url": "https://racescan.io/",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/visheshrace/networklogos/main/RACE_logo.svg"
-		
-	},
+[
 	{
 		"title": "RACE Sepolia",
 		"url": "https://testnet.racescan.io/",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/visheshrace/networklogos/main/RACE_logo.svg",
 		"isActive": true
+	},
+	{
+		"title": "RACE",
+		"url": "https://racescan.io/",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/visheshrace/networklogos/main/RACE_logo.svg"
+		
 	}
 ]
